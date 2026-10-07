@@ -51,7 +51,7 @@ BEGIN
 
   -- Convite para a conta de demonstração (administrador, todos os setores).
   -- Por segurança, não se aceita um e-mail que já pertença a outra organização
-  -- (por exemplo a sua conta da DAP): use um e-mail só para demonstrações.
+  -- (por exemplo a sua conta principal): use um e-mail só para demonstrações.
   IF EXISTS (
     SELECT 1 FROM public.memberships m JOIN auth.users u ON u.id = m.user_id
     WHERE lower(u.email) = lower(demo_email) AND m.organization_id <> org
