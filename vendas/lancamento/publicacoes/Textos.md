@@ -23,7 +23,7 @@ O Facitrack junta tudo num só lugar:
 ✅ Contratos que avisam antes de terminar
 ✅ Relatórios que mostram que fornecedor sai mais caro
 
-🎁 OFERTA DE LANÇAMENTO: só 999 MT/mês. Apenas para os primeiros 10 clientes.
+🎁 OFERTA DE LANÇAMENTO: só 999 MT/mês para a empresa inteira, com todas as lojas e utilizadores. Apenas para os primeiros 10 clientes.
 
 📲 Mande "QUERO VER" para o WhatsApp 84 613 0184 e marcamos uma demonstração de 20 minutos.
 
@@ -79,7 +79,7 @@ Em muitas empresas em Moçambique, a gestão das instalações tem sempre o mesm
 
 Por isso criei o Facitrack: uma plataforma moçambicana que junta manutenções, limpezas, combustível dos geradores, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por IA.
 
-Estou a abrir para os primeiros 10 clientes por apenas 999 MT/mês.
+Estou a abrir para os primeiros 10 clientes por apenas 999 MT/mês para a empresa inteira, com todas as instalações e utilizadores.
 
 Se gere lojas, agências, escolas, clínicas ou armazéns, mande-me mensagem. Mostro-lhe em 20 minutos.
 
