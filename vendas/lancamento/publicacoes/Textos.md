@@ -23,7 +23,7 @@ O Facitrack junta tudo num só lugar:
 ✅ Contratos que avisam antes de terminar
 ✅ Relatórios que mostram que fornecedor sai mais caro
 
-🎁 OFERTA DE LANÇAMENTO: a partir de 15 000 MT/mês (em vez de 25 000), durante 12 meses. Só para os primeiros 10 clientes.
+🎁 OFERTA DE LANÇAMENTO: só 999 MT/mês. Apenas para os primeiros 10 clientes.
 
 📲 Mande "QUERO VER" para o WhatsApp 84 613 0184 e marcamos uma demonstração de 20 minutos.
 
@@ -46,7 +46,7 @@ Com o Facitrack, cada leitura do gerador fica registada. A plataforma calcula o 
 
 Quem tem geradores em várias instalações sabe quanto isto custa por mês.
 
-🎁 Primeiros 10 clientes: a partir de 15 000 MT/mês durante 12 meses.
+🎁 Primeiros 10 clientes: só 999 MT/mês.
 📲 WhatsApp 84 613 0184. Mostro-lhe em 20 minutos.
 
 #Moçambique #Gerador #Combustível #Gestão #Facitrack
@@ -66,7 +66,7 @@ No fim do mês, os relatórios já estão feitos:
 📊 Que fornecedor cobra acima da média
 📊 Que equipamentos avariam sempre e já deviam ser substituídos
 
-🎁 Oferta de lançamento: a partir de 15 000 MT/mês para os primeiros 10 clientes.
+🎁 Oferta de lançamento: 999 MT/mês para os primeiros 10 clientes.
 📲 Mande mensagem: WhatsApp 84 613 0184
 
 #Moçambique #InteligênciaArtificial #Excel #Empresas #Facitrack
@@ -79,7 +79,7 @@ Em muitas empresas em Moçambique, a gestão das instalações tem sempre o mesm
 
 Por isso criei o Facitrack: uma plataforma moçambicana que junta manutenções, limpezas, combustível dos geradores, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por IA.
 
-Estou a abrir para os primeiros 10 clientes, com 40% de desconto durante 12 meses.
+Estou a abrir para os primeiros 10 clientes por apenas 999 MT/mês.
 
 Se gere lojas, agências, escolas, clínicas ou armazéns, mande-me mensagem. Mostro-lhe em 20 minutos.
 
@@ -90,7 +90,7 @@ Se gere lojas, agências, escolas, clínicas ou armazéns, mande-me mensagem. Mo
 1. "O gerador gastou combustível sem trabalhar? O Facitrack avisa no próprio dia. 📲 84 613 0184"
 2. "Ainda a passar ordens de trabalho do papel para o Excel? Tire uma foto, a IA preenche. 📲 84 613 0184"
 3. "O contrato de limpeza acabou e ninguém reparou? O Facitrack avisa 90 dias antes."
-4. "🎁 Restam X vagas com 40% de desconto. Facitrack, gestão de instalações. 📲 84 613 0184"
+4. "🎁 Restam X vagas a 999 MT/mês. Facitrack, gestão de instalações. 📲 84 613 0184"
 
 ---
 
