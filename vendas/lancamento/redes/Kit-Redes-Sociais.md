@@ -35,7 +35,7 @@ Por agora o teu perfil fica como está: não te apresentas como fundador. Só pu
 - **Site:** https://tanstack-start-ts-paper-to-data-wizard-main.leonelhenrique843.workers.dev (troca pelo domínio quando o tiveres)
 - **Descrição:**
 
-> O Facitrack é uma plataforma moçambicana para empresas com várias lojas, agências, escolas, clínicas, hotéis ou armazéns. Junta num só sistema as manutenções, limpezas, combustível do gerador, fumigações, incidentes e contratos de todas as instalações, com alertas automáticos, leitura de documentos por inteligência artificial e relatórios de custos por instalação e por fornecedor. Funciona no computador e no telemóvel, sem instalar nada. Peça uma demonstração: WhatsApp +258 84 613 0184.
+> O Facitrack é uma plataforma moçambicana para pequenas e médias empresas: escritórios, armazéns, lojas, escolas, clínicas, restaurantes e hotéis. Junta num só sistema as manutenções, avarias, limpezas, fumigações, incidentes e contratos da empresa, com alertas automáticos, leitura de documentos por inteligência artificial e relatórios de custos por equipamento e por fornecedor. Funciona no computador e no telemóvel, sem instalar nada. Peça uma demonstração: WhatsApp +258 84 613 0184.
 
 ---
 
@@ -48,18 +48,18 @@ Por agora o teu perfil fica como está: não te apresentas como fundador. Só pu
 - Botão de ação: **Enviar mensagem no WhatsApp** (84 613 0184)
 - Descrição (até 255 caracteres):
 
-> Gestão de instalações para empresas com várias lojas e agências: manutenção, limpeza, gerador, fumigação e contratos num só sistema, com alertas. 🎁 999 MT/mês para os primeiros 10 clientes. WhatsApp 84 613 0184
+> A manutenção da sua empresa num só sistema: avarias, manutenção preventiva, limpeza, fumigação e contratos, com alertas. 🎁 999 MT/mês para os primeiros 10 clientes. WhatsApp 84 613 0184
 
 **Instagram** (conta profissional, ligada à página de Facebook)
 - Utilizador: @facitrack (ou @facitrack.mz se estiver ocupado)
 - Bio (até 150 caracteres):
 
-> Todas as suas lojas num só sistema 🏢
-> Manutenção · Limpeza · Gerador · Contratos
+> A manutenção da sua empresa num só sistema 🏢
+> Avarias · Limpeza · Fumigação · Contratos
 > 🎁 999 MT/mês · primeiros 10 clientes
 > 📲 WhatsApp 84 613 0184
 
-- Destaques dos stories: "O que faz", "Gerador", "IA", "Preço" (usa os 3 stories).
+- Destaques dos stories: "O que faz", "Avarias", "IA", "Preço" (usa os 3 stories).
 
 ---
 
@@ -68,10 +68,10 @@ Por agora o teu perfil fica como está: não te apresentas como fundador. Só pu
 - Nome: Facitrack
 - Categoria: Software / Serviços para empresas
 - Foto: `Perfil-logo.png`
-- Descrição: "Gestão de manutenção, limpeza, gerador e contratos para empresas com várias instalações. Demonstração grátis de 20 minutos."
+- Descrição: "Manutenção, avarias, limpeza e contratos da sua empresa num só sistema. Demonstração grátis de 20 minutos."
 - **Mensagem de boas-vindas** (automática):
 
-> Olá! Obrigado por contactar o Facitrack 👋 Para lhe mostrar o que interessa, diga-me: 1) quantas lojas ou instalações tem a sua empresa, e 2) o que mais lhe dá trabalho hoje (manutenção, limpeza, gerador ou contratos)? Respondo já a seguir.
+> Olá! Obrigado por contactar o Facitrack 👋 Para lhe mostrar o que interessa, diga-me: 1) que tipo de empresa tem e quantos locais (escritório, armazém, loja…), e 2) o que mais lhe dá trabalho hoje (avarias, limpezas, fumigações ou contratos)? Respondo já a seguir.
 
 - **Mensagem de ausência:**
 
@@ -91,18 +91,18 @@ Publica como **documento** (`Carrossel-Facitrack.pdf`). Os carrosséis têm muit
 
 > Conheça o Facitrack. 🚀
 >
-> Quem gere várias lojas, agências ou instalações em Moçambique conhece estes 4 problemas:
+> Quem gere uma empresa em Moçambique conhece estes 4 problemas:
 >
-> ⛽ o gasóleo do gerador desce, mas o gerador nem trabalhou;
-> 🔧 o mesmo equipamento avaria 3 vezes num mês e ninguém compara fornecedores;
+> 🔧 a manutenção só se faz quando o equipamento já parou;
+> 🔁 o mesmo equipamento avaria 3 vezes e ninguém compara fornecedores;
 > 📅 os contratos de limpeza ou segurança acabam sem aviso;
 > 📄 a equipa passa horas a passar papéis para o Excel.
 >
-> O Facitrack é um sistema moçambicano que junta manutenções, limpezas, gerador, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por inteligência artificial.
+> O Facitrack é um sistema moçambicano que junta manutenções, avarias, limpezas, fumigações e contratos da empresa num só lugar, com alertas automáticos e leitura de documentos por inteligência artificial.
 >
 > 🎁 Para os primeiros 10 clientes: 999 MT/mês para a empresa inteira.
 >
-> Gere instalações, ou conhece quem gere? Comente "QUERO VER" ou fale connosco pelo WhatsApp 84 613 0184. Mostramos em 20 minutos.
+> Gere uma empresa, ou conhece quem gere? Comente "QUERO VER" ou fale connosco pelo WhatsApp 84 613 0184. Mostramos em 20 minutos.
 >
 > #Moçambique #Maputo #GestãoDeInstalações #Facilities #Empresas #Facitrack
 
@@ -125,3 +125,4 @@ Publica como **documento** (`Carrossel-Facitrack.pdf`). Os carrosséis têm muit
 | `Carrossel-Facitrack.pdf` | Publicação de lançamento no LinkedIn (documento) | 6 páginas |
 | `Carrossel-1.png` a `-6.png` | Carrossel no Instagram e no Facebook | 1080×1350 |
 | `Story-1/2/3-*.png` | Stories, estado do WhatsApp, Reels | 1080×1920 |
+| `Post-1-oferta.png`, `Post-2-avarias.png`, `Post-3-papel.png` | Publicações quadradas (Facebook, Instagram, LinkedIn) | 1080×1080 |
