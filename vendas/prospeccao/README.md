@@ -18,8 +18,11 @@ Para mudar o estado: edita o ficheiro no GitHub, ou diz numa conversa com o Clau
 
 ## Setores-alvo
 
-Supermercados e retalho, farmácias, telecomunicações, hotéis e turismo, logística
-e transportes, escolas e universidades privadas, clínicas e hospitais privados.
+Pequenas e médias empresas com equipamentos e contratos de serviços para gerir:
+escolas e colégios privados, clínicas e consultórios, hotéis, lodges e guest houses,
+restaurantes e pastelarias, supermercados e lojas, distribuidores e armazéns,
+escritórios (consultoras, despachantes, agências), condomínios e gestoras de imóveis.
+As 10 empresas grandes de 2026-10-07 ficam na lista, para mais tarde.
 
 ## Excluídos (conflito de interesses)
 
