@@ -75,7 +75,7 @@ No fim do mês, os relatórios já estão feitos:
 
 ## LinkedIn (uma vez por semana, com uma das imagens)
 
-Trabalho há anos com a gestão de instalações em Moçambique, e vejo sempre o mesmo problema: tudo em papel, Excel e mensagens soltas. Só se descobre o gasóleo que desapareceu, o contrato que acabou ou a avaria repetida quando já é tarde.
+Em muitas empresas em Moçambique, a gestão das instalações tem sempre o mesmo problema: tudo em papel, Excel e mensagens soltas. Só se descobre o gasóleo que desapareceu, o contrato que acabou ou a avaria repetida quando já é tarde.
 
 Por isso criei o Facitrack: uma plataforma moçambicana que junta manutenções, limpezas, combustível dos geradores, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por IA.
 
