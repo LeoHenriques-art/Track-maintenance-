@@ -77,11 +77,11 @@ No fim do mês, os relatórios já estão feitos:
 
 Em muitas empresas em Moçambique, a gestão das instalações tem sempre o mesmo problema: tudo em papel, Excel e mensagens soltas. Só se descobre o gasóleo que desapareceu, o contrato que acabou ou a avaria repetida quando já é tarde.
 
-Por isso criei o Facitrack: uma plataforma moçambicana que junta manutenções, limpezas, combustível dos geradores, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por IA.
+O Facitrack é um sistema moçambicano que junta manutenções, limpezas, combustível dos geradores, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por IA (fotografa-se a ordem de trabalho e o sistema preenche).
 
-Estou a abrir para os primeiros 10 clientes por apenas 999 MT/mês para a empresa inteira, com todas as instalações e utilizadores.
+Para os primeiros 10 clientes: 999 MT/mês para a empresa inteira, com todas as instalações e utilizadores.
 
-Se gere lojas, agências, escolas, clínicas ou armazéns, mande-me mensagem. Mostro-lhe em 20 minutos.
+Gere lojas, agências, escolas, clínicas ou armazéns? Fale connosco pelo WhatsApp +258 84 613 0184 e mostramos em 20 minutos.
 
 ---
 
@@ -108,5 +108,5 @@ Se gere lojas, agências, escolas, clínicas ou armazéns, mande-me mensagem. Mo
 
 - **Patrocinar no Facebook/Instagram** a publicação que tiver mais reações nas primeiras 48 h. Começar com 300 a 500 MT/dia durante 5 dias. Público: Moçambique, 28 a 55 anos, interesses "gestão de empresas", "empreendedorismo", "imobiliário", "retalho".
 - **Objetivo do anúncio: "Mensagens" (WhatsApp)**, não "gostos". Quem manda mensagem é um contacto quente.
-- **Grupos de Facebook** de empresários e PME de Moçambique: partilhar a Publicação 1 com uma frase pessoal ("Criei isto para quem gere várias instalações…"). Ler as regras de cada grupo.
+- **Grupos de Facebook** de empresários e PME de Moçambique: partilhar a Publicação 1 com uma frase curta ("Para quem gere várias instalações…"). Ler as regras de cada grupo.
 - **Responder a todas as mensagens em menos de 1 hora.** A primeira resposta decide a venda.

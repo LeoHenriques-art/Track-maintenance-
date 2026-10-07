@@ -5,7 +5,7 @@ As imagens estão nesta pasta.
 
 ## Ordem de preparação (faz por esta ordem)
 
-1. **LinkedIn pessoal:** banner, título, "Sobre" e experiência (secção 1).
+1. **LinkedIn pessoal:** fica como está (secção 1).
 2. **Página de empresa no LinkedIn** "Facitrack" (secção 2).
 3. **Página de Facebook e conta de Instagram** "Facitrack" (secção 3).
 4. **WhatsApp Business** no 84 613 0184 (secção 4).
@@ -17,35 +17,11 @@ As imagens estão nesta pasta.
 
 ## 1. LinkedIn pessoal
 
-**Banner:** `LinkedIn-banner-perfil.png` (1584×396). O texto está à direita para não ficar tapado pela tua foto.
+Por agora o teu perfil fica como está: não te apresentas como fundador. Só publicas as publicações do Facitrack, escritas na terceira pessoa ("o Facitrack…", "fale connosco"), sem dizer quem o criou.
 
-**Título** (aparece debaixo do nome, até 220 caracteres):
-
-> Fundador do Facitrack · Gestão de instalações para empresas com várias lojas, agências e armazéns em Moçambique · Manutenção, limpeza, gerador e contratos num só sistema
-
-**Sobre:**
-
-> Criei o Facitrack porque vejo em muitas empresas moçambicanas o mesmo problema: a gestão das instalações vive em papel, mapas Excel e mensagens de WhatsApp. Só se descobre o gasóleo que desapareceu, o contrato que acabou ou a avaria repetida quando já custou dinheiro.
->
-> O Facitrack junta num só sistema as manutenções, limpezas, combustível do gerador, fumigações, incidentes e contratos de todas as instalações de uma empresa:
-> • alertas automáticos (agendamentos em atraso, combustível que desce sem o gerador trabalhar, contratos a terminar);
-> • leitura de ordens de trabalho em papel por inteligência artificial;
-> • custo por instalação, por equipamento e por fornecedor;
-> • funciona no computador e no telemóvel, sem instalar nada.
->
-> Oferta de lançamento para os primeiros 10 clientes: 999 MT/mês para a empresa inteira.
->
-> Gere lojas, agências, escolas, clínicas, hotéis ou armazéns? Mande-me mensagem ou WhatsApp para +258 84 613 0184 e mostro-lhe em 20 minutos.
-
-**Experiência** (nova entrada):
-- Cargo: Fundador
-- Empresa: Facitrack (liga à página de empresa quando existir)
-- Data de início: outubro de 2026
-- Descrição: "Plataforma moçambicana de gestão de instalações: manutenção, limpeza, gerador, fumigação e contratos num só sistema."
-
-**Secção "Em destaque":** adiciona o carrossel (`Carrossel-Facitrack.pdf`) e o link do site.
-
----
+- Não mudes o título nem a experiência, e não ponhas o banner do Facitrack no perfil (ficaria associado a ti).
+- O banner `LinkedIn-banner-perfil.png` fica guardado para quando decidires mudar.
+- Se alguém perguntar nos comentários, responde como Facitrack: "Fale connosco pelo WhatsApp 84 613 0184."
 
 ## 2. Página de empresa no LinkedIn
 
@@ -111,9 +87,9 @@ As imagens estão nesta pasta.
 
 ## 5. Publicação de lançamento no LinkedIn (com o carrossel)
 
-Publica como **documento** (`Carrossel-Facitrack.pdf`). Os carrosséis têm muito mais alcance no LinkedIn do que uma imagem.
+Publica como **documento** (`Carrossel-Facitrack.pdf`). Os carrosséis têm muito mais alcance no LinkedIn do que uma imagem. O texto não diz quem criou o Facitrack.
 
-> Hoje lanço o Facitrack. 🚀
+> Conheça o Facitrack. 🚀
 >
 > Quem gere várias lojas, agências ou instalações em Moçambique conhece estes 4 problemas:
 >
@@ -122,15 +98,15 @@ Publica como **documento** (`Carrossel-Facitrack.pdf`). Os carrosséis têm muit
 > 📅 os contratos de limpeza ou segurança acabam sem aviso;
 > 📄 a equipa passa horas a passar papéis para o Excel.
 >
-> O Facitrack junta manutenções, limpezas, gerador, fumigações e contratos de todas as instalações num só sistema, com alertas automáticos e leitura de documentos por inteligência artificial.
+> O Facitrack é um sistema moçambicano que junta manutenções, limpezas, gerador, fumigações e contratos de todas as instalações num só lugar, com alertas automáticos e leitura de documentos por inteligência artificial.
 >
 > 🎁 Para os primeiros 10 clientes: 999 MT/mês para a empresa inteira.
 >
-> Se gere instalações (ou conhece quem gere), comente "QUERO VER" ou mande-me mensagem. Mostro-lhe em 20 minutos.
+> Gere instalações, ou conhece quem gere? Comente "QUERO VER" ou fale connosco pelo WhatsApp 84 613 0184. Mostramos em 20 minutos.
 >
-> #Moçambique #Maputo #GestãoDeInstalações #Facilities #Empreendedorismo #Facitrack
+> #Moçambique #Maputo #GestãoDeInstalações #Facilities #Empresas #Facitrack
 
-**Primeiro comentário** (publica-o tu logo a seguir, porque os links no texto reduzem o alcance):
+**Primeiro comentário** (publica-o logo a seguir, porque os links no texto reduzem o alcance):
 
 > Para ver como funciona: https://tanstack-start-ts-paper-to-data-wizard-main.leonelhenrique843.workers.dev · WhatsApp +258 84 613 0184
 
@@ -142,7 +118,7 @@ Publica como **documento** (`Carrossel-Facitrack.pdf`). Os carrosséis têm muit
 
 | Ficheiro | Onde usar | Tamanho |
 |---|---|---|
-| `LinkedIn-banner-perfil.png` | Banner do perfil pessoal | 1584×396 |
+| `LinkedIn-banner-perfil.png` | Guardado para o futuro (banner do perfil pessoal) | 1584×396 |
 | `LinkedIn-capa-pagina.png` | Capa da página de empresa | 1128×191 |
 | `Facebook-capa.png` | Capa da página de Facebook | 1640×624 |
 | `Perfil-logo.png` | Foto de perfil das páginas e do WhatsApp | 400×400 |
